@@ -4,7 +4,9 @@ This bot is the only one you really need for your Discord server.
 
 It's meant to make a cat hide somewhere, in one of your Discord server's channel. The members of your community must find it by calling it. But the cat is really well hidden, so all of them must try!
 
-## Setup the bot on your server
+Wanna try it? Join my demo Discord server! https://discord.gg/4nhqwqXP5c
+
+## Setup the bot on your own server
 
 [Follow this link](https://discord.com/api/oauth2/authorize?client_id=804856585582280757&scope=bot&permissions=11328) to add the bot to one of your servers.
 
@@ -17,7 +19,7 @@ A new game will start instantly after you add the bot to your server. Note that 
 
 ## How to play?
 
-In order to call the cat, users must post a message that contain one of the following keywords (and don't forget the question mark!).
+You can try this game on [my demo Discord server](https://discord.gg/4nhqwqXP5c), or install it on your own server by following the instructions above. In order to call the cat, users must post a message that contain one of the following keywords (and don't forget the question mark!).
 
 - *Meow?*
 - *Minou ?*
