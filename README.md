@@ -17,7 +17,7 @@ A new game will start instantly after you add the bot to your server. Note that 
 - **Automatically erase *Meow?* messages**: off
 - The cat can hide in any of your server's channels
 
-### Recommendations 
+### Recommendations (so you won't ruin your Discord server)
 
 While this game can motivate your community, you can avoid annoying non-playing members to be spammed by *Meow?* messages with two settings:
 
