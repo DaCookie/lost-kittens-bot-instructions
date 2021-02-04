@@ -17,6 +17,13 @@ A new game will start instantly after you add the bot to your server. Note that 
 - **Automatically erase *Meow?* messages**: off
 - The cat can hide in any of your server's channels
 
+### Recommendations 
+
+While this game can motivate your community, you can avoid annoying non-playing members to be spammed by *Meow?* messages with two settings:
+
+- Specify a category which will contain the only channels where the game will happen. You can configure it with the `!lk-start` command (see below)
+- Disable notifications by default on the channels where the game happens (from *Notifications Settings*, in Discord server menu)
+
 ## How to play?
 
 You can try this game on [my demo Discord server](https://discord.gg/4nhqwqXP5c), or install it on your own server by following the instructions above. In order to call the cat, users must post a message that contain one of the following keywords (and don't forget the question mark!).
@@ -28,6 +35,14 @@ You can try this game on [my demo Discord server](https://discord.gg/4nhqwqXP5c)
 ***The first user that make the cat show up wins!***
 
 ... Have a nice time with your community ;)
+
+## Features
+
+- Calling cats
+- Show GIF when a cat has been found
+- Options: language, auto-restart and automatically remove *Meow?* messages if you prefer
+- Specify game channel or category (avoiding to totally ruin your Discord server with *Meow?* messages everywhere)
+- Highscores: show your community members highscores, the total number of cats found on your server and in the World!
 
 ## Commands
 
@@ -61,7 +76,6 @@ Defines if you want the messages of users calling the cat to be automatically de
 
 *Example: `!lk-config-erasemessage 0`*
 
-
 #### `!lk-config-language <0 for no, 1 for yes>`
 
 Defines the language of the game on your server. For now, the only available values are: ***EN** (for English)* and ***FR** (for French)*.
@@ -73,6 +87,12 @@ Example: `!lk-config-language en`
 #### `!lk-help`
 
 Displays all the available commands of the Lost Kittens bot.
+
+#### `lk-highscores`
+
+Displays the 5 members that have found the most cats. This command also displays the total number of cats found on your server and in the World!
+
+*Examples: `lk-highscores`*
 
 #### `!lk-feedback`
 
