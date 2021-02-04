@@ -6,6 +6,8 @@ It's meant to make a cat hide somewhere, in one of your Discord server's channel
 
 Wanna try it? Join my demo Discord server! https://discord.gg/4nhqwqXP5c
 
+![Game example on Discord](./game-example.png)
+
 ## Setup the bot on your own server
 
 [Follow this link](https://discord.com/api/oauth2/authorize?client_id=804856585582280757&scope=bot&permissions=11328) to add the bot to one of your servers.
