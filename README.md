@@ -40,11 +40,12 @@ You can try this game on [my demo Discord server](https://discord.gg/4nhqwqXP5c)
 
 ## Features
 
-- Calling cats
-- Show GIF when a cat has been found
-- Options: language, auto-restart and automatically remove *Meow?* messages if you prefer
-- Specify game channel or category (avoiding to totally ruin your Discord server with *Meow?* messages everywhere)
-- Highscores: show your community members highscores, the total number of cats found on your server and in the World!
+- **Calling cats**
+- **Show GIF** when a cat has been found
+- **Game settings**: language, auto-restart and automatically remove *Meow?* messages if you prefer
+- **Specify game channel or category** (avoiding to totally ruin your Discord server with *Meow?* messages everywhere)
+- **Highscores**: show your community members highscores, the total number of cats found on your server and in the World!
+- **Feedbacks**: report bugs, ask me anything or just tell me how this game ruined your Discord with the `!lk-feedback` command!
 
 ## Commands
 
