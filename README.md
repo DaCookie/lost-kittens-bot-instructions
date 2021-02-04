@@ -24,6 +24,8 @@ While this game can motivate your community, you can avoid annoying non-playing 
 - Specify a category which will contain the only channels where the game will happen. You can configure it with the `!lk-start` command (see below)
 - Disable notifications by default on the channels where the game happens (from *Notifications Settings*, in Discord server menu)
 
+![Notification Settings menu preview](./notifications-settings-menu.png)
+
 ## How to play?
 
 You can try this game on [my demo Discord server](https://discord.gg/4nhqwqXP5c), or install it on your own server by following the instructions above. In order to call the cat, users must post a message that contain one of the following keywords (and don't forget the question mark!).
