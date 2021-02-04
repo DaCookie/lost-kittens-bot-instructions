@@ -24,7 +24,7 @@ While this game can motivate your community, you can avoid annoying non-playing 
 - Specify a category which will contain the only channels where the game will happen. You can configure it with the `!lk-start` command (see below)
 - Disable notifications by default on the channels where the game happens (from *Notifications Settings*, in Discord server menu)
 
-![Notification Settings menu preview](./notifications-settings-menu.png)
+![Notification Settings menu preview](./notifications-settings-preview.png)
 
 ## How to play?
 
